@@ -1,0 +1,16 @@
+{
+  "name": ".NET",
+  "tagline": "A minimal API on .NET 10.",
+  "description": "One Program.cs, one project file, no controllers. ASP.NET Core picks up the port the platform injects automatically, so there is nothing to configure before it serves traffic.",
+  "language": "DotNet",
+  "runtimeVersion": "net10.0",
+  "accent": "#512BD4",
+  "tags": [
+    "Minimal API",
+    "No config"
+  ],
+  "topics": [
+    "dotnet",
+    "aspnetcore"
+  ]
+}
